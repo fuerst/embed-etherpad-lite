@@ -2,7 +2,7 @@
 # about: Embed Etherpad Lite pads using Onebox.
 # version: 1.0
 # authors: Bernhard Fürst
-# url: https://dev.fuerstnet.de/discourse-onebox/embed-etherpad-lite
+# url: https://github.com/fuerst/embed-etherpad-lite
 
 class Onebox::Engine::EtherpadLiteOnebox
   include Onebox::Engine
